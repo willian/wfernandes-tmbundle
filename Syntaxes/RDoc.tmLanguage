@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>rdoc</string>
+	</array>
+	<key>keyEquivalent</key>
+	<string>^~R</string>
+	<key>name</key>
+	<string>RDoc</string>
+	<key>scopeName</key>
+	<string>text.rdoc</string>
+	<key>uuid</key>
+	<string>48636D15-774F-4E96-8D9E-3BBCE1252775</string>
+</dict>
+</plist>

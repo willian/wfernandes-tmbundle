@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.${1:clearfix}:after {
+	clear: both;
+	content: ".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.ie .$1 {
+	display: block;
+	zoom: 1;
+}</string>
+	<key>name</key>
+	<string>clearfix</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>clearfix</string>
+	<key>uuid</key>
+	<string>21CAED72-0D8F-4646-8F66-F9835A8E229A</string>
+</dict>
+</plist>
